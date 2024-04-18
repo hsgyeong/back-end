@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename resource &apos;testproject/src/main/webapp/web-INF&apos; to &apos;WEB-INF&apos;" description="Rename resource &apos;web-INF&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/webapp/web-INF" name="WEB-INF" stamp="1713335577797" updateReferences="true"/>
-</session>
